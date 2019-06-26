@@ -24,9 +24,9 @@ $ More code
 
 Text
 
-![Home](static/images/home_2.2.png)
+<!-- ![Home](static/images/home_2.2.png) -->
 
-![Sign Up](static/images/signup_2.2.png)
+<!-- ![Sign Up](static/images/signup_2.2.png) -->
 
 ## Next Steps
 
